@@ -8,6 +8,7 @@ package es.gva.edu.davlorrub.tarea54.dlr;
  *
  * @author David
  */
+//**Punto 18**//
 public interface Figura {
     public double calcularArea();
     public double calcularPerimetro();

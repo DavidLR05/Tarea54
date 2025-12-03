@@ -38,7 +38,7 @@ public class Triangulo implements Figura{
         return "Triangulo{" + "base=" + base + ", altura=" + altura + '}';
     }
     
-    
+   
 
     @Override
     public double calcularArea() {

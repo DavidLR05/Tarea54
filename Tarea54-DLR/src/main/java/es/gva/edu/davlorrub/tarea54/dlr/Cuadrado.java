@@ -7,6 +7,7 @@ package es.gva.edu.davlorrub.tarea54.dlr;
 /**
  *
  * @author David
+ * //**Punto 18**
  */
 public class Cuadrado implements Figura{
     
